@@ -1,7 +1,13 @@
 # Calm Wave
 
-<img width="500" height="500" alt="Fones_e_Onda_Minimalista__1_-removebg-preview 3" src="https://github.com/user-attachments/assets/7f120e2f-6f50-4972-a1b0-bdc9f3911c1c" /> **Reduzindo o ruído para um aprendizado sem barreiras.**
+<div align="center">
+<img width="500" height="500" alt="Fones_e_Onda_Minimalista__1_-removebg-preview 3" src="https://github.com/user-attachments/assets/7f120e2f-6f50-4972-a1b0-bdc9f3911c1c" /> 
 
+ 
+</div>
+
+**Reduzindo o ruído para um aprendizado sem barreiras.**
+ 
 Calm Wave é uma aplicação inovadora projetada para criar ambientes de aprendizado mais inclusivos e eficazes para crianças com Transtorno do Processamento Auditivo Central (TPAC) e hipersensibilidade auditiva. Nossa solução utiliza inteligência artificial para eliminar ruídos de fundo em tempo real, permitindo que os alunos se concentrem no que realmente importa: a voz do professor.
 
 ## O Problema
