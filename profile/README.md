@@ -1,7 +1,7 @@
 # Calm Wave
 
 <div align="center">
-<img width="500" height="500" alt="Fones_e_Onda_Minimalista__1_-removebg-preview 3" src="https://github.com/user-attachments/assets/7f120e2f-6f50-4972-a1b0-bdc9f3911c1c" /> 
+<img width="100" height="100" alt="Fones_e_Onda_Minimalista__1_-removebg-preview 3" src="https://github.com/user-attachments/assets/7f120e2f-6f50-4972-a1b0-bdc9f3911c1c" /> 
 
  
 </div>
